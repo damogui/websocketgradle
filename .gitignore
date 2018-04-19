@@ -1,0 +1,15 @@
+/.gradle/4.5.1/fileChanges/*.bin
+/.gradle/4.5.1/fileHashes/*.bin
+/.gradle/4.5.1/fileHashes/*.lock
+/.gradle/vcsWorkingDirs/*.properties
+/.idea/artifacts/*.xml
+/.idea/*.xml
+/.idea/libraries/*.xml
+/.idea/modules/*.iml
+/build/libs/exploded/websocket-gradle-1.0-SNAPSHOT.war/META-INF/*.MF
+/build/libs/exploded/websocket-gradle-1.0-SNAPSHOT.war/WEB-INF/classes/ssm/controller/*.class
+/build/libs/exploded/websocket-gradle-1.0-SNAPSHOT.war/WEB-INF/classes/ssm/utils/*.class
+/build/libs/exploded/websocket-gradle-1.0-SNAPSHOT.war/*.jsp
+/build/tmp/war/*.MF
+/out/production/classes/ssm/controller/*.class
+/out/production/classes/ssm/utils/*.class
